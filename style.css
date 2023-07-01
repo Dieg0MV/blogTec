@@ -1,0 +1,20 @@
+.container{
+    border: 2px solid blue;
+    padding: 20px;
+    background-color: blue;
+
+    }
+    .navbar-logo{
+
+        display: inline-block;
+        vertical-align: middle;
+        float: left;
+        width: 60px;
+        
+    }
+    
+
+
+    #search{
+        font-size: large;
+    }
